@@ -1,0 +1,100 @@
+Name,Date_of_Admission,Doctor,Hospital,Insurance_Provider,Billing_Amount,Room_Number,Admission_Type,Discharge_Date,Medication,Test_Results
+Bobby JacksOn,31/01/2024,Matthew Smith,Sons and Miller,Blue Cross,18856.28131,328,Urgent,02/02/2024,Paracetamol,Normal
+LesLie TErRy,20/08/2019,Samantha Davies,Kim Inc,Medicare,33643.32729,265,Emergency,26/08/2019,Ibuprofen,Inconclusive
+DaNnY sMitH,22/09/2022,Tiffany Mitchell,Cook PLC,Aetna,27955.09608,205,Emergency,07/10/2022,Aspirin,Normal
+andrEw waTtS,18/11/2020,Kevin Wells,"Hernandez Rogers and Vang,",Medicare,37909.78241,450,Elective,18/12/2020,Ibuprofen,Abnormal
+adrIENNE bEll,19/09/2022,Kathleen Hanna,White-White,Aetna,14238.31781,458,Urgent,09/10/2022,Penicillin,Abnormal
+EMILY JOHNSOn,20/12/2023,Taylor Newton,Nunez-Humphrey,UnitedHealthcare,48145.11095,389,Urgent,24/12/2023,Ibuprofen,Normal
+edwArD EDWaRDs,03/11/2020,Kelly Olson,Group Middleton,Medicare,19580.87234,389,Emergency,15/11/2020,Paracetamol,Inconclusive
+CHrisTInA MARtinez,28/12/2021,Suzanne Thomas,"Powell Robinson and Valdez,",Cigna,45820.46272,277,Emergency,07/01/2022,Paracetamol,Inconclusive
+JASmINe aGuIlaR,01/07/2020,Daniel Ferguson,Sons Rich and,Cigna,50119.22279,316,Elective,14/07/2020,Aspirin,Abnormal
+ChRISTopher BerG,23/05/2021,Heather Day,Padilla-Walker,UnitedHealthcare,19784.63106,249,Elective,22/06/2021,Paracetamol,Inconclusive
+mIchElLe daniELs,19/04/2020,John Duncan,Schaefer-Porter,Medicare,12576.79561,394,Urgent,22/04/2020,Paracetamol,Normal
+aaRon MARtiNeZ,13/08/2023,Douglas Mayo,Lyons-Blair,Medicare,7999.58688,288,Urgent,05/09/2023,Lipitor,Inconclusive
+connOR HANsEn,12/12/2019,Kenneth Fletcher,"Powers Miller, and Flores",Cigna,43282.28336,134,Emergency,28/12/2019,Penicillin,Abnormal
+rObeRt bAuer,22/05/2020,Theresa Freeman,Rivera-Gutierrez,UnitedHealthcare,33207.70663,309,Urgent,19/06/2020,Lipitor,Normal
+bROOkE brady,08/10/2021,Roberta Stewart,Morris-Arellano,UnitedHealthcare,40701.59923,182,Urgent,13/10/2021,Paracetamol,Normal
+MS. nAtalIE gAMble,01/01/2023,Maria Dougherty,Cline-Williams,Blue Cross,12263.35743,465,Elective,11/01/2023,Aspirin,Inconclusive
+haley perkins,23/06/2020,Erica Spencer,Cervantes-Wells,UnitedHealthcare,24499.8479,114,Elective,14/07/2020,Paracetamol,Normal
+mRS. jamiE cAMPBELl,08/03/2020,Justin Kim,"Torres, and Harrison Jones",Cigna,17440.46544,449,Urgent,02/04/2020,Paracetamol,Abnormal
+LuKE BuRgEss,04/03/2021,Justin Moore Jr.,Houston PLC,Blue Cross,18843.02302,260,Elective,14/03/2021,Aspirin,Abnormal
+dANIEL schmIdt,15/11/2022,Denise Galloway,Hammond Ltd,Cigna,23762.20358,465,Elective,22/11/2022,Penicillin,Normal
+tIMOTHY burNs,28/06/2023,Krista Smith,Jones LLC,Blue Cross,42.51458855,115,Elective,02/07/2023,Aspirin,Normal
+ChRISToPHEr BRiGhT,21/01/2020,Gregory Smith,Williams-Davis,Aetna,17695.91162,295,Urgent,09/02/2020,Lipitor,Normal
+KatHRYn StewArt,12/05/2022,Vanessa Newton,Clark-Mayo,Aetna,5998.102908,327,Urgent,10/06/2022,Lipitor,Inconclusive
+dR. EilEEn thomPsoN,02/08/2021,Donna Martinez MD,and Sons Smith,Aetna,25250.05243,119,Urgent,12/08/2021,Lipitor,Inconclusive
+PAUl hEndERsOn,15/05/2020,Stephanie Kramer,Wilson Group,Medicare,33211.29542,109,Emergency,08/06/2020,Paracetamol,Inconclusive
+PeTER fiTzgeRaLd,15/05/2020,Angela Contreras,Garner-Bowman,Medicare,19746.83201,162,Urgent,20/05/2020,Aspirin,Abnormal
+cathy sMaLl,23/12/2023,Wendy Glenn,"Brown, and Jones Weaver",Blue Cross,26786.52956,401,Elective,19/01/2024,Ibuprofen,Normal
+mr. KenNEth MoORE,21/06/2022,James Ellis,Serrano-Dixon,UnitedHealthcare,18834.80134,157,Emergency,30/06/2022,Lipitor,Abnormal
+MaRy hUNter,03/01/2021,Jared Bruce Jr.,Gardner-Miller,Cigna,32643.29935,223,Emergency,16/01/2021,Penicillin,Normal
+jOSHUA OLiVer,03/10/2023,Brandy Mitchell,Guerrero-Boone,Aetna,5767.011054,293,Elective,12/10/2023,Paracetamol,Abnormal
+ThOMAS MartInEZ,18/08/2019,Jacob Huynh,Hart Ltd,Cigna,47909.12881,371,Urgent,01/09/2019,Ibuprofen,Inconclusive
+JAmES pattERson,03/11/2019,Kristina Frazier,Cruz-Santiago,UnitedHealthcare,25835.32359,108,Urgent,29/11/2019,Penicillin,Abnormal
+WilLIAM cOOPEr,18/05/2023,John Hartman,Group Duncan,Medicare,17993.2262,245,Elective,15/06/2023,Penicillin,Normal
+Erin oRTEga,24/05/2023,Heather Garcia,Lopez-Phillips,Medicare,21185.95353,494,Elective,03/06/2023,Ibuprofen,Normal
+NicOlE RodriGUEz,17/01/2020,Lynn Young,Poole Inc,Blue Cross,8408.949354,285,Emergency,10/02/2020,Lipitor,Normal
+DAvID AndErSON,07/01/2021,Emma Allison,Sons and Cox,Medicare,45453.41855,228,Elective,26/01/2021,Lipitor,Abnormal
+DEnIse ToRRES,14/10/2019,Laura Myers,LLC Martin,Aetna,4397.776995,481,Urgent,19/10/2019,Paracetamol,Inconclusive
+CasSAndrA Robinson,19/12/2021,Travis Parsons,Espinoza-Stone,Aetna,9380.325968,212,Urgent,16/01/2022,Ibuprofen,Normal
+NIcOlE LUcErO,12/03/2022,Christine Johnson,"and Garcia Morris Cunningham,",Cigna,48290.69341,113,Emergency,29/03/2022,Lipitor,Abnormal
+PAmela fErNanDeZ,17/01/2021,Emily Taylor,Walton-Meyer,Medicare,32973.94083,272,Urgent,29/01/2021,Penicillin,Abnormal
+chRiSTOPHer LEe,15/09/2021,William Reynolds,PLC Young,Cigna,49943.2785,478,Emergency,05/10/2021,Lipitor,Normal
+ThomAS morsE,27/01/2020,Jennifer Carter,Meadows Group,Cigna,35633.95545,196,Urgent,09/02/2020,Aspirin,Normal
+Mr. eRiC Lane,24/06/2022,Matthew Thomas,"and Howell Brooks, Rogers",Cigna,25966.32861,418,Elective,18/07/2022,Paracetamol,Normal
+KAThEriNE SmiTH,09/06/2021,Mary Logan,"and Mcclure White Boone,",UnitedHealthcare,21784.44507,410,Urgent,01/07/2021,Paracetamol,Normal
+pAUL wILLiAmS,23/08/2020,Kristin Martinez,"Gates Brown, and Stuart",Medicare,42684.55888,328,Urgent,08/09/2020,Penicillin,Abnormal
+lYNn MaRtinez,12/10/2022,Daniel Murphy,Group Armstrong,Medicare,45585.88656,300,Emergency,02/11/2022,Penicillin,Normal
+chRIsTOpHEr CHaPmAN,01/12/2021,Emily Patterson,Ltd Schwartz,Cigna,29615.44186,211,Elective,09/12/2021,Paracetamol,Normal
+CHRis fRYe,04/05/2020,Heather Smith,Nelson-Phillips,Cigna,36992.27369,413,Urgent,13/05/2020,Aspirin,Normal
+kyLE bEnneTT,09/09/2023,John Smith,"Knight and Nguyen, Riggs",UnitedHealthcare,28051.49948,157,Urgent,23/09/2023,Ibuprofen,Abnormal
+BRandOn coLLINS,19/07/2019,Cameron Young,Lopez PLC,Cigna,16320.23245,138,Urgent,29/07/2019,Ibuprofen,Abnormal
+mIchael LiU,05/04/2024,Vicki Nguyen,"Fernandez and Phillips, Singh",Medicare,30590.54181,456,Emergency,22/04/2024,Paracetamol,Inconclusive
+STepHaNie kEnt,15/06/2019,Mary Moss,Beck-Galloway,Aetna,14681.01636,234,Emergency,05/07/2019,Ibuprofen,Abnormal
+JessE BaNks,29/10/2022,Alexander Garcia,"Decker Glover, and Christensen",Aetna,21879.53191,492,Urgent,20/11/2022,Penicillin,Inconclusive
+PeGGY LEe,08/04/2022,Patrick Burns,"Nelson Walker Myers, and",UnitedHealthcare,6767.634397,180,Elective,13/04/2022,Lipitor,Abnormal
+TAmARa hErNAndez,17/08/2023,Kayla Powers,Mitchell-Navarro,Cigna,19973.46293,250,Elective,11/09/2023,Ibuprofen,Inconclusive
+mR. DAVID pIERce Md,05/11/2023,Julia Cox,Group Delgado,UnitedHealthcare,14362.31449,296,Emergency,07/11/2023,Paracetamol,Inconclusive
+beThaNY MoOrE,09/04/2023,Penny Pruitt,"and Montes Graves, Thomas",Cigna,10300.65731,330,Emergency,21/04/2023,Paracetamol,Normal
+MIChael MIllS,21/09/2022,Mrs. Lori Hurst PhD,Hall-Bentley,Aetna,37951.66491,405,Emergency,25/09/2022,Ibuprofen,Inconclusive
+kyle Wiley,21/01/2021,Stephen Carr,Taylor-Nguyen,Aetna,6733.990947,300,Urgent,06/02/2021,Ibuprofen,Normal
+jACqUeLINE jORdaN,10/07/2020,Jacob Daniel,Hunter-Grant,Aetna,17839.74565,306,Elective,20/07/2020,Paracetamol,Abnormal
+ASHleY guTIERreZ,06/11/2019,Tyler Braun,Miller-Lawson,Aetna,24637.09006,333,Elective,22/11/2019,Paracetamol,Inconclusive
+Kim ScOtt,07/04/2024,Cindy Ellis,Scott-Kelly,UnitedHealthcare,39723.16605,244,Emergency,04/05/2024,Ibuprofen,Inconclusive
+tRAvIs carTeR,06/07/2022,Megan Hahn,"Moss and Ferguson, Baker",UnitedHealthcare,48407.38629,325,Emergency,18/07/2022,Aspirin,Normal
+LArry rodgeRs,03/08/2022,Eric Kelly,"and Mason Smith Chase,",Cigna,5517.393642,113,Elective,10/08/2022,Aspirin,Inconclusive
+Nancy glOVeR,08/05/2020,Jennifer Larson,"Khan, and Rodriguez Fischer",Medicare,19183.16889,378,Emergency,01/06/2020,Aspirin,Abnormal
+JessIca king,09/12/2019,William Hess,Sons Watson and,Medicare,8320.660803,468,Urgent,21/12/2019,Lipitor,Abnormal
+ChRiStOPhER gOnzAlez,21/11/2019,Patricia Dunn,Rhodes-Carey,Medicare,10107.18765,368,Emergency,08/12/2019,Penicillin,Abnormal
+jOhN hARTmAN,07/01/2023,Jack Jackson,Bullock-Ramsey,Cigna,49402.29837,263,Elective,27/01/2023,Lipitor,Inconclusive
+MicHAEl MillEr,06/02/2024,Jonathan Drake,"Clark Brown, and Myers",UnitedHealthcare,35776.81511,489,Emergency,10/02/2024,Penicillin,Normal
+Erica myERS,30/01/2020,Ian Benitez,"Jackson and Lane, Dillon",Medicare,20227.86373,241,Elective,12/02/2020,Penicillin,Normal
+cAROl PaTtERSoN,24/10/2022,Jamie Baker,"Turner Cook, Banks and",Blue Cross,19328.11858,231,Urgent,07/11/2022,Ibuprofen,Normal
+JOSe LopEz,09/01/2022,Erika Jackson,"Miles, and Weaver Hudson",Aetna,46956.54573,377,Emergency,15/01/2022,Aspirin,Inconclusive
+kEVIn SiMmoNs Jr.,28/12/2023,Amanda Garcia,Evans Ltd,Cigna,10709.69039,407,Emergency,02/01/2024,Paracetamol,Abnormal
+DuANe HaneY,16/09/2021,Raven Wong,Sons and Schaefer,Aetna,45353.99078,263,Urgent,14/10/2021,Penicillin,Abnormal
+JONathAn yaTeS,24/07/2023,Cynthia Scott,Sons Hodges and,Aetna,8451.001758,135,Elective,11/08/2023,Paracetamol,Abnormal
+johN THoMaS,13/11/2021,Mark Padilla,Simpson-Mccall,UnitedHealthcare,29850.87973,131,Emergency,07/12/2021,Paracetamol,Inconclusive
+AdriaN BuckLEY,11/10/2023,Julie Ramirez,"Lin Thompson Wells, and",Blue Cross,42696.52116,102,Urgent,27/10/2023,Penicillin,Normal
+apRil SANTIAgO,30/01/2021,Jacob Rich,Jones-Scott,Cigna,2305.13914,249,Emergency,04/02/2021,Penicillin,Inconclusive
+DIane scHultz,21/11/2021,Mark Hartman Jr.,Howe-Kelly,UnitedHealthcare,44437.47067,255,Emergency,05/12/2021,Penicillin,Inconclusive
+tiMOThY myers,02/03/2024,Timothy Baker,and Sons Reyes,UnitedHealthcare,29504.38744,422,Urgent,26/03/2024,Ibuprofen,Inconclusive
+NICOLE HUGhes,04/12/2020,Lori Sanchez,Shaw-Young,Blue Cross,34617.78834,320,Emergency,08/12/2020,Ibuprofen,Abnormal
+ChAd MorEnO,26/08/2020,Connie Boyd,Inc Skinner,Aetna,46814.0112,134,Urgent,27/08/2020,Penicillin,Abnormal
+SeaN jenniNGs,12/11/2023,James Tucker,Clark-Johnson,Blue Cross,20257.54428,255,Elective,12/12/2023,Penicillin,Abnormal
+DIAnE brAnch,30/05/2020,Juan Acevedo,Perez and Sons,Cigna,22841.36388,410,Emergency,14/06/2020,Aspirin,Inconclusive
+cindY OROzco,12/05/2023,Julie Finley,Kemp LLC,Medicare,10283.71686,273,Emergency,10/06/2023,Ibuprofen,Abnormal
+pAtriCIa MEdinA,07/07/2022,Miguel Parker,LLC Dixon,UnitedHealthcare,1586.476601,395,Emergency,23/07/2022,Ibuprofen,Normal
+kayLa padillA,24/09/2020,Jermaine Peters,"and Morales Jennings Cook,",Aetna,34774.35113,152,Emergency,08/10/2020,Penicillin,Inconclusive
+JUan klEiN,19/08/2023,Lisa Edwards,Group Hood,UnitedHealthcare,24870.10366,321,Emergency,25/08/2023,Ibuprofen,Inconclusive
+wILLIAM hIlL,16/05/2023,Matthew Walker,Lindsey Inc,Cigna,39476.94751,428,Elective,01/06/2023,Aspirin,Abnormal
+CARL BEst,22/08/2022,Gregory Hansen,Ltd Wang,Blue Cross,26062.43432,482,Elective,07/09/2022,Paracetamol,Inconclusive
+TInA GriFfin,17/06/2022,Jessica Cruz,Inc Ford,Medicare,25302.11263,268,Elective,28/06/2022,Penicillin,Abnormal
+MR. TYler TAYLOR Phd,05/11/2022,Robert Salazar,Dean-Hawkins,UnitedHealthcare,10661.51065,120,Emergency,25/11/2022,Lipitor,Abnormal
+TAyLoR howeLl Dds,10/09/2021,Kyle Patterson,Walter PLC,Blue Cross,30358.19458,318,Elective,18/09/2021,Ibuprofen,Inconclusive
+mIcHAeL MaRTIn,06/09/2022,John Summers,Sons Horn and,Cigna,23684.52547,162,Urgent,27/09/2022,Ibuprofen,Inconclusive
+heatHER mIller,17/04/2021,Scott Grant,"Powell Ward, and Mercado",Aetna,3908.946568,428,Elective,10/05/2021,Lipitor,Inconclusive
+cathERinE gArDnEr,19/08/2019,David Ruiz,James Ltd,Medicare,25503.67381,144,Elective,26/08/2019,Lipitor,Abnormal
+ANNE THOMPSoN,24/03/2024,Kyle Smith,Kemp-Munoz,Aetna,6312.607691,226,Elective,14/04/2024,Aspirin,Abnormal
+TOdd coopeR,10/12/2022,Jason Price,Henderson-Taylor,UnitedHealthcare,21772.3414,459,Elective,31/12/2022,Ibuprofen,Normal
+PhILLIP lyOnS,14/09/2022,Stephanie Clements,"Parsons, Hartman Martinez and",Blue Cross,30437.00179,208,Elective,18/09/2022,Aspirin,Normal
